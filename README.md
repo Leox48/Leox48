@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe">
