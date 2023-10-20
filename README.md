@@ -1,4 +1,4 @@
-### Hi there 👋
+### whoami 👋
 
 <!--
 **Leox48/Leox48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe">
