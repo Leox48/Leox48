@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe">
-<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="PrivEsc Bagde" width=50px>
+<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="PrivEsc Bagde" width="100px">
+
