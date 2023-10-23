@@ -1,5 +1,5 @@
 ### whoami ?
-
+- 🔭 I’m currently working on CyberSec formation
 <!--
 **Leox48/Leox48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe">
-### My Badges
-<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="PrivEsc Bagde" width="100px">
+<strong>My Badges</strong>
 
+<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/blue.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/metasploit.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="PrivEsc Bagde" width="100px">
