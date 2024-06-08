@@ -1,5 +1,5 @@
 ### whoami ?
-- 🔭 I’m currently working on CyberSec formation
+- 🔭 I’m currently learning CyberSecurity basics and more...
 <!--
 **Leox48/Leox48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
