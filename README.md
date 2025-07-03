@@ -1,5 +1,6 @@
 ### whoami ?
-- 🔭 I’m currently learning CyberSecurity basics and more...
+- 🔭 Working at NTT Data Italia as Professional Penetration Tester.
+- eWPT Certification
 <!--
 **Leox48/Leox48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
