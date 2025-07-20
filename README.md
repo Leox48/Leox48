@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <strong>My THM Badges</strong>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe" width="100px">
 
 <img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/blue.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/metasploit.svg" alt="PrivEsc Bagde" width="100px"> <img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="PrivEsc Bagde" width="100px">
