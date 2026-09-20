@@ -1,9 +1,10 @@
 ### whoami ?
 - 🔭 Working at NTT Data Italia as Professional Penetration Tester.
 - GWAPT Certified
+<img src="https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png" alt="gWAPT Badge">
+
 - eWPT Certified
 <img src="https://templates.images.credential.net/16947191873158488518373721742383.png" alt="eWPT Badge">
-<img src="https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png" alt="gWAPT Badge">
 
 <!--
 **Leox48/Leox48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <strong>My THM Badges</strong>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe" width="100px">
 
