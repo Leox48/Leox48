@@ -13,11 +13,11 @@ Penetration Tester with hands-on offensive security experience across web, API, 
 
 ## 🎓 Certifications
 <p>
-[![GWAPT Badge](https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png)](https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc)
+ [![GWAPT Badge](https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png)](https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc)
+
+ [![eWPT Badge](https://templates.images.credential.net/1694719187315488518373721742383.png)](https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd)
 </p>
-<p>
-[![eWPT Badge](https://templates.images.credential.net/1694719187315488518373721742383.png)](https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd)
-</p>
+
 - **GWAPT** — GIAC Web Application Penetration Tester → [Verify credential](https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc)
 - **eWPT** — eLearnSecurity Web Penetration Tester → [Verify credential](https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd)
 
