@@ -3,7 +3,7 @@
 Penetration Tester with hands-on offensive security experience across web, API, infrastructure and enterprise PAM platforms — and a growing focus on applying machine learning to security and threat intelligence problems.
 
 - 🔭 Currently a **Penetration Tester at NTT DATA Europe & Latam** — 83+ authorized engagements across web, mobile, API and infrastructure targets, plus independent vulnerability research.
-- 🛡️ Holder of **CVE-2026-1769**, an independently discovered and responsibly disclosed vulnerability — see [official CVE record](https://www.cve.org/CVERecord?id=CVE-2026-1769).
+- 🛡️ Holder of **CVE-2026-1769**, an independently discovered and responsibly disclosed vulnerability — see [official CVE record](https://www.cve.org/CVERecord?id=CVE-2026-1769) and [vendor security bulletin](https://securitydocs.business.xerox.com/wp-content/uploads/2026/02/Xerox-Security-Bulletin-XRX26-003-for-Xerox-CentreWare-Web.pdf).
 - 🧠 Exploring ML applied to security through personal research: LLM-based information extraction, fine-tuned transformer classifiers, and cyber threat intelligence (MISP / STIX 2 / DISARM).
 - 📄 MSc in Computer Engineering (Cybersecurity), *cum laude* — University of Naples Federico II.
 - 🌍 Open to relocating to Switzerland.
@@ -13,8 +13,8 @@ Penetration Tester with hands-on offensive security experience across web, API, 
 
 ## 🎓 Certifications
 
-[![GWAPT Badge](https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png)](https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc)
-[![eWPT Badge](https://templates.images.credential.net/16947191873158488518373721742383.png)](https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd)
+<a href="https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc"><img src="https://images.credly.com/size/340x340/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png" alt="GWAPT Badge" width="110"></a>
+<a href="https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd"><img src="https://templates.images.credential.net/16947191873158488518373721742383.png" alt="eWPT Badge" width="110"></a>
 
 - **GWAPT** — GIAC Web Application Penetration Tester → [Verify credential](https://www.credly.com/badges/ece49cca-3957-4f26-8e5d-1099ed1742dc)
 - **eWPT** — eLearnSecurity Web Penetration Tester → [Verify credential](https://certs.ine.com/df5cd863-8153-4095-8158-9ccc8453b0fd)
@@ -41,9 +41,12 @@ Penetration Tester with hands-on offensive security experience across web, API, 
 
 ## 🏆 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Leox48.png)](https://tryhackme.com/p/Leox48)
+<a href="https://tryhackme.com/p/Leox48"><img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe" width="200"></a>
 
-![Linux PrivEsc](https://tryhackme.com/img/badges/linuxprivesc.svg) ![Blue](https://tryhackme.com/img/badges/blue.svg) ![Metasploit](https://tryhackme.com/img/badges/metasploit.svg) ![Hash Cracker](https://tryhackme.com/img/badges/hashcracker.svg)
+<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="Linux PrivEsc" width="80">
+<img src="https://tryhackme.com/img/badges/blue.svg" alt="Blue" width="80">
+<img src="https://tryhackme.com/img/badges/metasploit.svg" alt="Metasploit" width="80">
+<img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="Hash Cracker" width="80">
 
 ---
 
