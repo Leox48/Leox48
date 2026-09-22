@@ -3,7 +3,7 @@
 Penetration Tester with hands-on offensive security experience across web, API, infrastructure and enterprise PAM platforms — and a growing focus on applying machine learning to security and threat intelligence problems.
 
 - 🔭 Currently a **Penetration Tester at NTT DATA Europe & Latam** — 83+ authorized engagements across web, mobile, API and infrastructure targets, plus independent vulnerability research.
-- 🛡️ Holder of **CVE-2026-1769**, an independently discovered and responsibly disclosed vulnerability — see [official CVE record](https://www.cve.org/CVERecord?id=CVE-2026-1769).
+- 🛡️ Holder of **CVE-2026-1769**, an independently discovered and responsibly disclosed vulnerability — see [official CVE record](https://www.cve.org/CVERecord?id=CVE-2026-1769) [official credit/reference](https://securitydocs.business.xerox.com/wp-content/uploads/2026/02/Xerox-Security-Bulletin-XRX26-003-for-Xerox-CentreWare-Web.pdf)
 - 🧠 Exploring ML applied to security through personal research: LLM-based information extraction, fine-tuned transformer classifiers, and cyber threat intelligence (MISP / STIX 2 / DISARM).
 - 📄 MSc in Computer Engineering (Cybersecurity), *cum laude* — University of Naples Federico II.
 - 🌍 Open to relocating to Switzerland.
