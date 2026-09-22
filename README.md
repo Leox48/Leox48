@@ -26,7 +26,9 @@ Penetration Tester with hands-on offensive security experience, and a growing in
 - **[Disinformation-Threat-Intelligence](https://github.com/Leox48/Disinformation-Threat-Intelligence)** — MSc thesis project applying an LLM-based extraction pipeline and a fine-tuned DistilBERT classifier to detect disinformation campaigns, benchmarked against SBERT and TF-IDF baselines on a purpose-built dataset (DistilBERT: 0.94–0.96 accuracy vs. 0.56–0.68 for traditional baselines).
 - **[SoftwareSecurity](https://github.com/Leox48/SoftwareSecurity)** — Threat intelligence analysis of a real disinformation campaign: TTP mapping with the DISARM framework, and a Python pipeline normalizing MISP exports into standard-compliant STIX 2 data.
 - **[L2_CVRP](https://github.com/Leox48/L2_CVRP)** — Capacitated Vehicle Routing Problem solved with Google OR-Tools.
+- **Secure BNB Booking (Work in Progress)** - Test project of a secure bnb booking web application
 
+  
 ---
 
 ### 🏆 TryHackMe
