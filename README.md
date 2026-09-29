@@ -40,17 +40,6 @@ Penetration Tester with hands-on offensive security experience across web, API, 
 
 ---
 
-## 🏆 TryHackMe
-
-<a href="https://tryhackme.com/p/Leox48"><img src="https://tryhackme-badges.s3.amazonaws.com/Leox48.png" alt="TryHackMe" width="200"></a>
-
-<a><img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="Linux PrivEsc" width="80"></a>
-<a><img src="https://tryhackme.com/img/badges/blue.svg" alt="Blue" width="80"></a>
-<a><img src="https://tryhackme.com/img/badges/metasploit.svg" alt="Metasploit" width="80"></a>
-<a><img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="Hash Cracker" width="80"></a>
-
----
-
 ## ⚖️ A note on this profile
 
 All research and methodology content published here is either independent personal research, academic work, or written from a vendor-agnostic/fictionalized perspective. No client data, proprietary configurations, or confidential information from professional engagements is ever disclosed.
