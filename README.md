@@ -23,6 +23,7 @@ Penetration Tester with hands-on offensive security experience across web, API, 
 
 ## 🔬 Featured Projects
 
+- **[Cyberark-Cp-Audit](https://github.com/Leox48/Cyberark-cp-audit)** - Self-made security audit tool for CyberArk Credential Provider (AIM/CP) deployments on Linux.
 - **[pam-security-assessments](https://github.com/Leox48/pam-security-assessments)** — Methodology, attack chains, and hardening guidance for enterprise Privileged Access Management platforms (starting with CyberArk AIM/Credential Provider), based on real-world assessment experience. Covers the full attacker mindset for PAM: trust-boundary analysis, AppID restriction bypass, sudo-to-credential-theft chains, and defensive remediation for each finding class.
 - **[Disinformation-Threat-Intelligence](https://github.com/Leox48/Disinformation-Threat-Intelligence)** — MSc thesis project: an LLM-based extraction pipeline feeding a fine-tuned DistilBERT classifier to detect disinformation campaigns, benchmarked on a purpose-built synthetic dataset ("FakeCTI") against SBERT and TF-IDF baselines (DistilBERT: 0.94–0.96 accuracy vs. 0.56–0.68 for traditional approaches).
 - **[Disinformation-Campaign-01](https://github.com/Leox48/Disinformation-Campaign-01)** — Threat intelligence analysis of a real disinformation campaign: TTP mapping with the DISARM framework, and a Python pipeline normalizing MISP exports into standard-compliant STIX 2 data.
